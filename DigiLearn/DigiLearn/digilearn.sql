@@ -34,7 +34,7 @@ insert into digilearn.course( CourseType,CourseName,CourseLink) values('cybersec
 insert into digilearn.course( CourseType,CourseName,CourseLink) values('python','Complete Python Bootcamp From Zero to Hero in Python','https://www.udemy.com/course/complete-python-bootcamp/');
 
 
-insert into digilearn.employee values(1,"Kushal","java,databases");
+insert into digilearn.employee values(1,"Sham","java,databases");
 insert into digilearn.employee values(2,"Shubham","java");
 insert into digilearn.employee values(3,"Mohan","databases");
 insert into digilearn.employee values(4,"Rohit","java,databases,spring");
